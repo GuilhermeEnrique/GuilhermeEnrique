@@ -14,7 +14,9 @@ Sou uma pessoa apaixonada por esportes e tecnologia, atualmente estou aprendendo
 <div align="center">
 <a href="https://instagram.com/guierme16?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:guilherme.dantas416@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-<a href="https://www.linkedin.com/in/guilherme-enrique-marques-dantas-2a0902219" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+<a href="https://www.linkedin.com/in/guilherme-enrique-marques-dantas-2a0902219" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://open.spotify.com/user/guilherme.dantas416" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+</div>
 
 <div align="center">
 <a href="https://github.com/GuilhermeEnrique">
