@@ -2,7 +2,7 @@
   <h2>
   Hi World, my name is Guilherme Enrique and my nickname is "Guierme"!👋
   </h2>
- </div>
+</div>
  
 Sou uma pessoa apaixonada por esportes e tecnologia, atualmente estou aprendendo mais sobre JavaScript e suas tecnologias. Gostaria de aprender cada vez mais e usarei o github como um portfólio e projetos. 
 
@@ -17,10 +17,9 @@ Sou uma pessoa apaixonada por esportes e tecnologia, atualmente estou aprendendo
 <a href="https://www.linkedin.com/in/guilherme-enrique-marques-dantas-2a0902219" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://open.spotify.com/user/guilherme.dantas416" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 </div>
-
+</br>
 <div align="center">
 <a href="https://github.com/GuilhermeEnrique">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeEnrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeEnrique&layout=compact&langs_count=7&theme=dracula"/>
-
 </div>
