@@ -10,7 +10,7 @@ Sou uma pessoa apaixonada por esportes e tecnologia, atualmente estou aprendendo
 <div>
 <a href="https://instagram.com/guierme16?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@guilherme.dantas416@gmail.com><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-enrique-marques-dantas-2a0902219" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
+<a href="https://www.linkedin.com/in/guilherme-enrique-marques-dantas-2a0902219" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
 <div>
 <a href="https://github.com/GuilhermeEnrique">
