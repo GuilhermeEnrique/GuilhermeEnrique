@@ -21,6 +21,5 @@ Sou uma pessoa apaixonada por esportes e tecnologia, atualmente estou aprendendo
 </br>
 <div align="center">
 <a href="https://github.com/GuilhermeEnrique">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeEnrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeEnrique&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeEnrique&layout=compact&langs_count=9&theme=dracula"/>
 </div>
